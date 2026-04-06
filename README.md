@@ -19,10 +19,9 @@ No harsh alarms. No pressure. Just you, your cat, and a cozy pomodoro.
 
 ## 🚀 getting started
 
-git clone https://github.com/YOUR_USERNAME/purr-focus.git
+git clone https://github.com/deep-shikha124/purr-focus.git
 cd purr-focus
 npm install
 npm run dev
 
-## 🐱 made with love for cat lovers who need a 
-little softness in their day
+## 🐱 made with love for cat lovers who need a little softness in their day
